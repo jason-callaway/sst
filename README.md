@@ -3,14 +3,14 @@ SST Security Toolkit
 
 **Note**: This project is not being actively developed.  The SST Security Toolkit (SST) was a project at opensolaris.org.  That repo has been removed, so I uploaded SST to GitHub for anyone who might have a historical interest in the product.  For Solaris 11 security auditing, refer the OpenSCAP documentation.
 
-OpenSCAP does not implement security controls.  The SCAP spec for implementation is still in draft, and will likely take some time to mature.  There's a clear need for a project like this, and I'd still like to persue the [goals](https://blogs.oracle.com/sst/entry/minutes_from_4_june_2010) outlined by the legacy opensolaris.org SST project.  Please [email me](mailto:jason@jasoncallaway.com) if you're interested in contributing.
+OpenSCAP does not implement security controls.  The SCAP spec for implementation is still in draft, and will likely take some time to mature.  There's a clear need for a project like this, and I'd still like to persue the [goals](https://blogs.oracle.com/sst/entry/minutes_from_4_june_2010) outlined by the legacy opensolaris.org SST blog.  Please [email me](mailto:jason@jasoncallaway.com) if you're interested in contributing.
 
 Thanks,
+
 ~Jason
 
 
-Legacy SST Project Page
-=======================
+Legacy SST Project Page...
 
 #SST Security Toolkit
 
