@@ -11,22 +11,24 @@ Thanks,
 
 Legacy SST Project Page
 =======================
-=SST Security Toolkit
-==What is SST?
+
+#SST Security Toolkit
+
+##What is SST?
 
 The SST Security Toolkit (SST) is a flexible Unix and Linux hardening tool.  SST simplifies and automates the hardening process which allows administrators to apply security settings consistently across the enterprise.
 
 SST was formerly known as the Solaris Security Toolkit and as and the JumpStart Architecture and Security Scripts (JASS) Toolkit.
 
-==SST Branches
+##SST Branches
 
 One of the core goals of the open source SST project is platform independence.  However, since SST has a loyal following among Solaris administrators the project will maintain two branches – one for legacy Solaris support, another for platform independent *nix support.
 
-===SST Security Toolkit: Community Edition (SST:CE)
+###SST Security Toolkit: Community Edition (SST:CE)
 
 The Community Edition (or just ‘CE’) will support OpenSolaris, Solaris 10, Red Hat Enterprise Linux (RHEL), and any other operating system in which the community has interest.  In addition to platform independent support, CE will focus on security standards like SCAP and CVE.
 
-===SST Security Toolkit: Legacy Version (SST:LV)
+###SST Security Toolkit: Legacy Version (SST:LV)
 
 The Legacy Version (or just ‘LV’) is all about continuity.  It is an evolutionary release for SST 4.2 that will support Solaris 10 SPARC and x86/x64. Anyone familiar with SST 4.2 will find transitioning to LV to be easy if not seamless.  LV development work will be mostly backwards-compatibility, updated drivers, and .fin and .aud scripts to support the security standards like SCAP.
 
@@ -38,7 +40,7 @@ Where to find SUNWjass 4.2
 
 If you're looking for the older Solaris Security Toolkit version 4.2, you can find it at http://www.sun.com/software/security/jass/.
 
-==Development Goals
+##Development Goals
 
 If you're wondering about what SST means to accomplish, check the Goals and Use Cases pages.
 Getting Started
